@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Cruz Pereira</h1>
-<h3 align="center">A passionate fullstack developer from Brazil.</h3>
+<h3 align="center">A passionate Full-Stack Engineer from Brazil.</h3>
 <br></br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
