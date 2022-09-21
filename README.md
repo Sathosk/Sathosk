@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiago Cruz Pereira</h1>
 <h3 align="center">A passionate Full-Stack Engineer from Brazil.</h3>
-<br></br>
+<br>
+
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="https://linkedin.com/in/tiagocruzpereira/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/tiagocruzpereira/"/></a>
+<a href="https://linkedin.com/in/tiagocruzpereira/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-         badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/tiagocruzpereira/"/></a>
 </p>
-<br></br>
+<br>
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center" style="display: inline_block" >
@@ -15,11 +17,7 @@
   <img aling="center" alt= "Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img aling="center" alt= "Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
-
-
-
-
-
+<br><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathosk&show_icons=true&theme=highcontrast&locale=en" alt="sathosk" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathosk&theme=highcontrast" alt="sathosk" /></p>
