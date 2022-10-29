@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tiagocruzpereira/" target=”_blank”>
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin.com/in/tiagocruzpereira/">
+    <img align="center" style="width: 90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin.com/in/tiagocruzpereira/">
   </a>
 </p>
 <br>
