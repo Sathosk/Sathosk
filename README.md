@@ -22,5 +22,4 @@
 </div>
 <br><br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathosk&show_icons=true&theme=highcontrast&locale=en" alt="sathosk" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathosk&theme=highcontrast" alt="sathosk" /></p>
