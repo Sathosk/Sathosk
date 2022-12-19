@@ -23,5 +23,5 @@
 <br><br>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sathosk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sathosk&theme=highcontrast&include_all_commits=true&count_private=true"/></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathosk&theme=highcontrast" alt="sathosk" /></p>
